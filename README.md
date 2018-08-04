@@ -9,4 +9,5 @@ Three different state predictors are inplemented based on http://people.ee.duke.
 ## Variational Autoencoders State Predictor
 VAE state predictor is designed to solve model stochasticity. Breakout and Berzer were used to test the performance of prediction power of VAE predictor.
 
-![Screenshot]("https://user-images.githubusercontent.com/31879289/43647852-6efd8044-976b-11e8-8542-369de79bcd40.png")
+![Image Of VAE Predictions]
+("https://user-images.githubusercontent.com/31879289/43647852-6efd8044-976b-11e8-8542-369de79bcd40.png")
