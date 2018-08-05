@@ -34,10 +34,10 @@ Action-Conditional Video Prediction,
 <table align='center'>
 <tr align='center'>
 <td> Input image </td>
-<td> VAE Prediction </td>
+<td> Feedforward Encoding State Predictor Prediction </td>
 </tr>
 <tr>
-<td><img src = 'https://user-images.githubusercontent.com/31879289/43647852-6efd8044-976b-11e8-8542-369de79bcd40.png' height = '300px'>
-<td><img src = 'https://github.com/waynecai2/Model-Based-Reinforcement-Learning/blob/master/VAE%20Predictions.png' height = '300px'>
+<td><img src = 'https://github.com/waynecai2/Model-Based-Reinforcement-Learning/blob/Update/FNN%20Original%20Image.png' height = '300px'>
+<td><img src = 'https://github.com/waynecai2/Model-Based-Reinforcement-Learning/blob/Update/FNN%20Prediction.png' height = '300px'>
 </tr>
 </table>
