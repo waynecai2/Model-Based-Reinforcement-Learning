@@ -41,3 +41,23 @@ Action-Conditional Video Prediction,
 <td><img src = 'https://github.com/waynecai2/Model-Based-Reinforcement-Learning/blob/Update/FNN%20Prediction.png' height = '300px'>
 </tr>
 </table>
+
+
+### Recurrent Encoding State Predictor
+Action-Conditional Video Prediction,
+
+#### Model Structure
+* `Encoder`: Three convolutional layers of kernal size 3, stride 2 and 128 outputs were used to to compress the input image.
+* `Dimension of latent vector`: One LSTM Layer.
+* `Decoder`: Three deconvolutional layers of kernal size 3, stride 2 and 128 inputs channels.
+
+<table align='center'>
+<tr align='center'>
+<td> Input image </td>
+<td> Recurrent Encoding State Predictor Prediction </td>
+</tr>
+<tr>
+<td><img src = 'https://github.com/waynecai2/Model-Based-Reinforcement-Learning/blob/Update/RNN%20Ground%20Truth.png' height = '300px'>
+<td><img src = 'https://github.com/waynecai2/Model-Based-Reinforcement-Learning/blob/Update/RNN%20Predition.png' height = '300px'>
+</tr>
+</table>
